@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "DHFJ9Z7H5R.com.sigitechnologies.fominocustomerIos",
+        "paths": ["*"]
+      }
+    ]
+  }
+}

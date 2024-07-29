@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/myace/demo1.myace.app
+    - /bin/cp -r * $DEPLOYPATH
